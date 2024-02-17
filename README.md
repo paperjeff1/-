@@ -5,6 +5,9 @@
 * 由於機率複雜，採用蒙地卡羅進行1萬次模擬，計算玩家體感
 * 另設計多個方案，看優化後的成效
 
+***
+![image](https://github.com/paperjeff1/Monte-Carlo/assets/49071370/abf7d99e-2fd6-4a35-938a-29870ba0d0aa)
+
 檔案說明:
 * 主程式碼 : 拼圖機率模擬.ipynb
 * 最終各方案彙整結果 : 拼圖模擬結果.xlsx
